@@ -1,0 +1,2 @@
+Cufon.replace('.list a, .sf-menu li, .form-text, .icon-text, h2, .box-text, .link1, #package_form .buttons1 a, #planner_form .buttons1 a, .title, .title2, .box2-text, .box2-text1, .title3, .link4, .buttons a, .link7, .link8 ', { fontFamily: 'Franchise', hover:true });
+Cufon.replace('h1 small , h3', { fontFamily: 'Raleway' });

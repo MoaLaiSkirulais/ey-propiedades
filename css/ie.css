@@ -1,0 +1,5 @@
+.box, .box1, #package_form .buttons1 a, #planner_form .buttons1 a, .link1, .box2, .link7, .link8 
+{
+	behavior: url(js/PIE.htc);
+	position:relative;
+}
